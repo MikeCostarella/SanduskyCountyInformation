@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Beacon (Schneider Geospatial)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Sandusky County (Official Site)", category: "Government", subcategory: "County", url: "https://sanduskycountyoh.gov/", description: "Official government portal for Sandusky County, Ohio (county seat: Fremont)." },
